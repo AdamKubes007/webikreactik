@@ -1,6 +1,6 @@
 import Ract from "react";
- 
-function Header(){
+
+function Header() {
   return (
     <div className="App">
       <header>
