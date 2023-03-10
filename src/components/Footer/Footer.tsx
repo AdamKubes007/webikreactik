@@ -1,4 +1,4 @@
-import './App.css';
+import '../../App.css';
 import ikonaFB from "../../assets/images/logos/ikona-fb.jpg";
 import ikonaIG from "../../assets/images/logos/ikona-ig.jpg";
 
